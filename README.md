@@ -17,6 +17,9 @@
    <div align="center">
      Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
     </div>
+    <div align="center">
+     Vercel Deplaoyment link <a href="https://meetings-ankits-projects-9a675c62.vercel.app/sign-in?redirect_url=https%3A%2F%2Fmeetings-ankits-projects-9a675c62.vercel.app%2F" target="_blank">
+    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
